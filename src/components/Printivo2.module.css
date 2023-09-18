@@ -1,0 +1,38 @@
+div.PrintivoHeader{
+    position: static;
+    height: 12vh;
+    display: flex;
+    padding: 20px;
+    margin: 1px;
+    background: rgb(205, 206, 206);
+    gap: 140px;
+}
+
+img.PrintivoLogo{
+    margin-left: 75px;
+    margin-top: 20px;
+}
+
+ul.printvoMain{
+    margin-left: 500px;
+    position: absolute;
+    padding: 18px;
+    display: inline-flex;
+    font-size: 15px;
+    gap: 28px;
+    list-style: none;
+}
+a.subMain{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+a.subMainn{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+     color: chocolate;
+     font-weight: 700;
+}

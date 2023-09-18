@@ -1,0 +1,59 @@
+body{
+    
+}
+p.Google{
+text-transform: uppercase;
+font-size :59px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-weight: 900;
+color: white;
+}
+.GOO{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div.Jagoinput{
+   display:flex ;
+   justify-content: center;
+   align-items: center;
+}
+input.input{
+    width: 500px;
+    padding: 20px;
+    border-radius: 4rem;
+    border: 1px solid black;
+    background-color: azure;
+}
+ul.orderList{
+    display: flex;
+    gap: 30px;
+    text-transform: none;
+    text-decoration: none;
+    margin-left: 600px;
+    list-style: none;
+}
+
+li.Item{
+    background-color: azure;
+    border-radius: 1rem;
+    border: 2px solid burlywood;
+    padding: 8px 14px;
+    color: black;
+}
+
+li.lucky{
+    background-color: azure;
+    border-radius: 1rem;
+    border: 2px solid burlywood;
+    padding: 8px 14px;
+    color: black;
+}
+
+
+
+
+
+
+
+

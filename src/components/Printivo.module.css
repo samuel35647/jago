@@ -1,0 +1,52 @@
+div.navbarMain{
+    height: 10vh;
+    padding: 20px;
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    background-color: rgb(234, 236, 224);
+}
+
+ul.navbarHeader{
+    margin-left: 43px;
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    gap: 50px;
+}
+div.subNavbar{
+    display: flex;
+    text-decoration: none;
+}
+ul.subNavbarDetails{
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    gap: 70px;
+    position: relative;
+    left: 90px;
+    justify-content: space-between;
+}
+a.Navhref{
+    text-decoration: none;
+    color: burlywood;
+}
+img.NavImg{
+    width: 30px;
+    height: 30px;
+    margin-top: -5px;
+}
+button.NigButton{
+    padding: 8px;
+    border-radius: 5rem;
+    border: 1px solid red;
+    margin-top: -10px;
+}
+small.Nigsmall{
+    font-size: 15px;
+    padding: 9px;
+}
+span.NavSpan{
+    color: blue;
+    text-decoration: underline;
+}
